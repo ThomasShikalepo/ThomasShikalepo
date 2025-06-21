@@ -23,7 +23,7 @@ I'm a passionate developer and student from Namibia, focused on building impactf
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/thomas-shikalepo)  
 - 🌐 [Portfolio Website](https://thomasdeon.vercel.app/)
-- 📧 Email:(mailto:thomasshikalepo@gmail.com.com)
+- 📧 Email: [thomasshikalepo@gmail.com](mailto:thomasshikalepo@gmail.com)
 
 ---
 
