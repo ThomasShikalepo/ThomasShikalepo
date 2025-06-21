@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDeon&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# 👋 Hi, I'm Thomas Shikalepo
+# 👋 Hi, I'm Deon
 
 I'm a passionate developer and student from Namibia, focused on building impactful software solutions that solve real-world problems.
 
