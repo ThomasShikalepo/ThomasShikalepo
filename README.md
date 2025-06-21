@@ -1,30 +1,37 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasDeon&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+# 💫 About Me:
+🎓 I'm Thomas Shikalepo, a Computer Science student at the Namibia University of Science and Technology.  
+💻 I love building backend systems, analyzing data, and creating things that matter.  
+🌱 I'm learning not just about code, but also about life—its meaning and its joy.  
+😅 I don’t always know what I’m doing, but I love doing it anyway!
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-shikalepo/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thomasshikalepo@gmail.com)
 
-# 👋 Hi, I'm Deon
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
-I'm a passionate developer and student from Namibia, focused on building impactful software solutions that solve real-world problems.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ThomasDeon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ThomasDeon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDeon&theme=dark&hide_border=false&layout=compact)
 
-## 🚀 What I Do
-- 🔧 **Backend Development** – APIs, real-time systems, microservices (Ballerina, Python, Java, PHP)
-- 📊 **Data Analytics** – Turning raw data into insights using Python, SQL, and dashboards
-- 🌐 **Web Development** – Creating clean, responsive websites using HTML, CSS, JavaScript
-- 🧠 **Learning** – Constantly improving my skills in machine learning, cloud tools, and DevOps
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=ThomasDeon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💼 Projects I’m Proud Of
-- 📦 **Logistics System with Kafka & Ballerina** – Real-time shipping with standard, express & international flows
-- 🚨 **RapidResponse App** – Helping police locate callers in informal settlements using geolocation
-- 🛍️ **Online Shopping System (gRPC)** – Full backend with admin/customer flows and peer-to-peer sync
-- 🌍 **Immersive 3D Life Story Website** – Using Three.js + React + Tailwind to share my journey from village to varsity
-
-## 🛠️ Tech Stack
-`Ballerina` • `Python` • `SQL`• `Kotlin` • `Kafka` • `Java` • `HTML/CSS/JS` • `React` • `Tailwind CSS` • `Next.js` • `Three.js`
-
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-shikalepo)  
-- 🌐 [Portfolio Website](https://thomasdeon.vercel.app/)
-- 📧 Email: [thomasshikalepo@gmail.com](mailto:thomasshikalepo@gmail.com)
+### ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ThomasDeon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Thanks for stopping by! ⭐ Feel free to explore my repositories or reach out for collaboration.
