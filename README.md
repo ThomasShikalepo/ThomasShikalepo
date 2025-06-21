@@ -2,7 +2,7 @@
 🎓 I'm Thomas Shikalepo, a Computer Science student at the Namibia University of Science and Technology.  
 💻 I love building backend systems, analyzing data, and creating things that matter.  
 🌱 I'm learning not just about code, but also about life—its meaning and its joy.  
-😅 I don’t always know what I’m doing, but I love doing it anyway!
+😅 I don’t always know what I’m doing, but I love doing😂!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=radical)](https://www.linkedin.com/in/thomas-shikalepo/)  
@@ -24,7 +24,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThomasDeon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThomasDeon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasDeon&theme=dark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=ThomasDeon&theme=radical&no-frame=false&no-bg=true&margin-w=4&exclude=Stars,Issues,PullRequest,PullRequestReviewer)
