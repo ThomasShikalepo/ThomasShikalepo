@@ -25,7 +25,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=ThomasDeon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThomasDeon&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
+
+Here are some milestones from my journey as a developer on GitHub. I’m just getting started, and there’s so much more to learn, build, and share!
+
 ![](https://github-profile-trophy.vercel.app/?username=ThomasDeon&theme=radical&no-frame=false&no-bg=true&margin-w=4&exclude=Stars,Issues,PullRequest,PullRequestReviewer)
 
 
