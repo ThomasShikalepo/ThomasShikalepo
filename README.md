@@ -18,12 +18,12 @@ I'm a passionate developer and student from Namibia, focused on building impactf
 - 🌍 **Immersive 3D Life Story Website** – Using Three.js + React + Tailwind to share my journey from village to varsity
 
 ## 🛠️ Tech Stack
-`Ballerina` • `Python` • `SQL` • `Kafka` • `Java` • `HTML/CSS/JS` • `React` • `Tailwind CSS` • `Next.js` • `Three.js`
+`Ballerina` • `Python` • `SQL`• `Kotlin` • `Kafka` • `Java` • `HTML/CSS/JS` • `React` • `Tailwind CSS` • `Next.js` • `Three.js`
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/thomas-shikalepo)  
-- 🌐 [Portfolio Website](https://yourwebsite.com) <!-- Replace with your actual link -->
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 🌐 [Portfolio Website](https://thomasdeon.vercel.app/)
+- 📧 Email:(mailto:thomasshikalepo@gmail.com.com)
 
 ---
 
