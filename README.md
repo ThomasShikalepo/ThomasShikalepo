@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Hi I'm Deon:
 🎓 I'm Thomas Shikalepo, a Computer Science student at the Namibia University of Science and Technology.  
 💻 I love building backend systems, analyzing data, and creating things that matter.  
 🌱 I'm learning not just about code, but also about life—its meaning and its joy.  
@@ -22,8 +22,8 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThomasDeon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ThomasDeon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ThomasDeon&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ThomasDeon&theme=radical&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
