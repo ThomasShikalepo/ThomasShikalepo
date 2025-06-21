@@ -1,3 +1,4 @@
+![wp5347441-minions-4k-wallpapers](https://github.com/user-attachments/assets/7adc4629-99a9-48ff-ab16-c91bce5b4654)
 # 💫 Hi I'm Deon
 
 🎓 I'm Thomas Shikalepo, a Computer Science student at the Namibia University of Science and Technology.  
