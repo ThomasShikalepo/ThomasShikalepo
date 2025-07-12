@@ -50,8 +50,8 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ThomasDeon&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=ThomasDeon&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=ThomasShikalepo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=ThomasShikalepo&theme=radical&hide_border=false)
 
 ---
 
@@ -59,7 +59,7 @@
 
 I'm just getting started, but here are some cool milestones from my journey:
 
-![](https://github-profile-trophy.vercel.app/?username=ThomasDeon&theme=radical&no-frame=false&no-bg=true&margin-w=4&exclude=Stars,Issues,PullRequest,PullRequestReviewer)
+![](https://github-profile-trophy.vercel.app/?username=ThomasShikalepo&theme=radical&no-frame=false&no-bg=true&margin-w=4&exclude=Stars,Issues,PullRequest,PullRequestReviewer)
 
 ---
 
@@ -69,4 +69,4 @@ I'm just getting started, but here are some cool milestones from my journey:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ThomasDeon&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ThomasShikalepo&icon=0&color=0)](https://visitcount.itsvg.in)
