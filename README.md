@@ -55,14 +55,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-I'm just getting started, but here are some cool milestones from my journey:
-
-![](https://github-profile-trophy.vercel.app/?username=ThomasShikalepo&theme=radical&no-frame=false&no-bg=true&margin-w=4&exclude=Stars,Issues,PullRequest,PullRequestReviewer)
-
----
-
 ### ✍️ Dev Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
