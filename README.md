@@ -1,3 +1,6 @@
+
+![pexels-david-alberto-carmona-coto-434794-1151418](https://github.com/user-attachments/assets/882932db-84dd-4758-a364-51485edebeff)
+
 # 💫 Hi, I'm Deon – Welcome to my World!  
 
 🎓 I'm **Thomas Shikalepo**, a Computer Science student at the **Namibia University of Science and Technology** and a highly motivated **Software Developer** with expertise in **Python, Java, Kotlin, and JavaScript**.  
@@ -17,14 +20,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-shikalepo/) [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomasshikalepo@gmail.com)  
 
 ---
-
-# ⚒️ Tech Stack  
-
 # ⚒️ Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
  
-
 ---
 
 # 📊 GitHub Stats  
