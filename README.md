@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Deon – Welcome to my World!  
+# 💫 Hi, I'm Thomas Deon – Welcome to my World!  
 
 🎓 I'm **Thomas Shikalepo**, a Computer Science student at the **Namibia University of Science and Technology** and a highly motivated **Software Developer** with expertise in **Python, Java, Kotlin, and JavaScript**.  
 
