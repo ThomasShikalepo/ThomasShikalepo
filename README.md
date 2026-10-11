@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<!-- Social / Contact Badges -->
+<!-- Contact & Profiles -->
 <p align="center">
   <a href="https://thomasdeon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-thomasdeon.vercel.app-0284C7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" alt="Portfolio"/></a>
   &nbsp;
@@ -41,25 +41,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🏥 **[Distributed Patient Microservices](https://github.com/ThomasShikalepo)**: Event-driven healthcare backend built with **Java**, **Spring Boot**, **Kafka**, **Docker**, and **gRPC**.
-- 🌐 **[Interactive 3D Portfolio](https://thomasdeon.vercel.app/)**: Developer portfolio with interactive 3D graphics built using **Next.js**, **Three.js**, and **Blender**.
-- 🚚 **[AI Route Optimization Engine](https://github.com/ThomasShikalepo)**: Route planning and optimization system built using **Python**, **OR-Tools**, and **Mapbox**.
-- 🎓 **[Work Integrated Learning System (WILMS)](https://github.com/ThomasShikalepo/Work_Integrated_System)**: University internship and mentor supervision platform built with **Laravel**, **Inertia React**, and **PostgreSQL**.
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThomasShikalepo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasShikalepo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="175" />
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasShikalepo&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideNums=38BDF8" alt="Streak Stats" />
 </div>
 
