@@ -1,106 +1,136 @@
 <div align="center">
 
-<!-- Animated Waving & Twinkling Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1E293B&height=190&section=header&text=Thomas%20(Deon)%20Shikalepo&fontSize=38&fontColor=FEFE5B&animation=twinkling&desc=4th-Year%20Computer%20Science%20Student%20%7C%20Full-Stack%20%26%20Systems%20Engineer&descAlignY=62&descColor=E2E8F0" alt="Banner" width="100%"/>
+<!-- The Enchanted Realm Banner from thomasdeon.vercel.app -->
+<img src="https://thomasdeon.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDALL%C2%B7E%202024-12-03%2002.06.57%20-%20An%20African-themed%20enchanted%20desert%20at%20night.cb4e96d6.webp&w=1200&q=75" alt="Enchanted Desert at Night" width="100%" style="border-radius: 12px; box-shadow: 0 0 25px rgba(254, 254, 91, 0.2);" />
 
-<!-- Animated Typing Terminal Headline -->
+<br/><br/>
+
+<!-- Mystic Cinzel Rune Inscription -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FEFE5B&center=true&vCenter=true&width=650&lines=🎓+4th-Year+Computer+Science+Student+%40+NUST;🚀+Architecting+Distributed+Microservices;🎨+Crafting+3D+Interactive+Web+Experiences;⚡+Discipline%3A+Code+by+Day%2C+Gym+by+Night" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1200&color=FEFE5B&center=true&vCenter=true&width=750&lines=%E2%9C%A8+ThomasDeon+%E2%80%94+Meet+the+Wizard+Behind+the+Magic;%F0%9F%AA%84+Conjuring+Resilient+Microservices+%26+3D+Realms;%F0%9F%93%9C+4th-Year+Computer+Science+Scholar+%40+NUST;%E2%9A%94%EF%B8%8F+Tempered+in+Code+%E2%80%A2+Forged+in+the+Iron+Gym" alt="Arcane Inscription" />
 </a>
 
 <br/>
 
-<!-- Animated Rainbow Dividing Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="28" />
-
-<!-- Interactive Social Badges -->
+<!-- Portals & Dispatch Badges -->
 <p align="center">
-  <a href="https://thomasdeon.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-thomasdeon.vercel.app-FEFE5B?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/thomas-shikalepo/"><img src="https://img.shields.io/badge/LinkedIn-Thomas_Shikalepo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-  <a href="mailto:thomasshikalepo@gmail.com"><img src="https://img.shields.io/badge/Email-thomasshikalepo@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
-  <a href="https://x.com/Thomas882289040"><img src="https://img.shields.io/badge/X-@Thomas882289040-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter"/></a>
+  <a href="https://thomasdeon.vercel.app/"><img src="https://img.shields.io/badge/🔮_The_Sanctum-thomasdeon.vercel.app-FEFE5B?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/thomas-shikalepo/"><img src="https://img.shields.io/badge/📜_Guild_Scroll-Thomas_Shikalepo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+  <a href="mailto:thomasshikalepo@gmail.com"><img src="https://img.shields.io/badge/🦅_Raven_Dispatch-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
+  <a href="https://x.com/Thomas882289040"><img src="https://img.shields.io/badge/⚡_Whispers-@Thomas882289040-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter"/></a>
 </p>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24" />
 
 </div>
 
+## 🧙‍♂️ The Chronicle • Who Stands Before You
+
+> *"In the borderland where raw logic merges with imagination, digital realms are conjured from pure thought."*
+
+Greetings, wanderer. I am **Thomas (Deon) Shikalepo** — a Software Engineer, 3D Technologist, and Builder of Systems.
+
+- 🎓 **The Scholar's Path**: Advancing through my **4th Year of Computer Science** at the **Namibia University of Science and Technology (NUST)**.
+- ⚙️ **The Machine Core**: Conjuring enterprise backends, distributed event-driven microservices (**Java Spring Boot**, **Kafka**, **Docker**, **gRPC**), and robust relational persistence.
+- 🎨 **The 3D Weave**: Transforming static pixels into cinematic virtual spaces using **Blender 3D**, **Three.js**, and **Next.js**.
+- ⚔️ **Tempered Discipline**: Balancing intellect and physical power — maintaining unbroken devotion to both **daily code commits** and **the iron temple (gym)**.
+- 🌌 **Enter The World**: Explore my 3D wizard portfolio at [**thomasdeon.vercel.app**](https://thomasdeon.vercel.app/).
+
 ---
 
-## 👨‍💻 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
+## 📜 The Arcane Grimoire • Spellbook & Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,react,nextjs,threejs,tailwind,php,laravel,postgres,mysql,docker,kafka,git,github,blender,linux" alt="The Arsenal" />
+</div>
+
+<br/>
 
 <table>
-  <tr>
-    <td width="65%" valign="top">
-      <p>🎓 <b>Academic Journey</b>: Currently in my <b>4th Year of Computer Science</b> at the <b>Namibia University of Science and Technology (NUST)</b>.</p>
-      <p>💻 <b>Software Engineering</b>: Specializing in high-throughput backend systems, distributed microservices (Spring Boot, Kafka), and scalable full-stack applications.</p>
-      <p>🎨 <b>Creative Tech & 3D</b>: Merging <b>3D modeling in Blender</b> with <b>Next.js & Three.js</b> to craft cinematic, interactive web experiences.</p>
-      <p>🏋️‍♂️ <b>Philosophy & Lifestyle</b>: Applying the same relentless consistency to my physical fitness and gym training as I do to engineering clean, robust code.</p>
-      <p>🌐 <b>Live Portfolio</b>: Explore my work and 3D web world at <a href="https://thomasdeon.vercel.app/"><b>thomasdeon.vercel.app</b></a>.</p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" style="border-radius: 12px;"/>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="30%">School of Art</th>
+      <th width="70%">Incantations & Elements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>⚡ Core Languages</b></td>
+      <td><code>Java</code> • <code>Python</code> • <code>TypeScript</code> • <code>JavaScript</code> • <code>Kotlin</code> • <code>PHP</code> • <code>T-SQL</code></td>
+    </tr>
+    <tr>
+      <td><b>🏰 Distributed Backends</b></td>
+      <td><code>Spring Boot</code> • <code>Apache Kafka</code> • <code>gRPC</code> • <code>Docker</code> • <code>Laravel</code> • <code>REST APIs</code></td>
+    </tr>
+    <tr>
+      <td><b>🔮 3D & Frontend Realms</b></td>
+      <td><code>Three.js</code> • <code>Next.js</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>Blender 3D</code> • <code>Inertia.js</code></td>
+    </tr>
+    <tr>
+      <td><b>🗄️ Relational Vaults</b></td>
+      <td><code>PostgreSQL</code> • <code>MySQL</code> • <code>Database Modeling & Optimization</code></td>
+    </tr>
+    <tr>
+      <td><b>🛠️ Runes of Craftsmanship</b></td>
+      <td><code>Linux Environs</code> • <code>Git & GitHub</code> • <code>Postman</code> • <code>VS Code</code> • <code>Spatial Audio</code></td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-## 🛠️ Tech Radar & Toolkit
+## 🏛️ Artifacts & Conjured Creations
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,react,nextjs,threejs,tailwind,php,laravel,postgres,mysql,docker,kafka,git,github,blender,linux" alt="Tech Stack" />
-</div>
+### 🏥 [Distributed Patient Healthcare Realm](https://github.com/ThomasShikalepo)
+> **Elements:** `Java` • `Spring Boot` • `Apache Kafka` • `Docker` • `PostgreSQL` • `gRPC`  
+> An enterprise-grade, event-driven microservices architecture decoupling patient records, billing workflows, and telemetry analytics across fault-tolerant boundaries.
 
-<br/>
+### 🌌 [The 3D Enchanted Sanctum](https://thomasdeon.vercel.app/)
+> **Elements:** `Next.js` • `Three.js` • `Tailwind CSS` • `Blender 3D`  
+> A custom-engineered, cinematic developer universe with interactive 3D wizard models, particle atmospheres, and spatial auditory landscapes.
 
-| Domain | Technologies |
-|---|---|
-| **Core Languages** | Java, Python, JavaScript, TypeScript, Kotlin, PHP, T-SQL |
-| **Backend & Microservices** | Spring Boot, Apache Kafka, gRPC, Docker, Laravel, REST APIs |
-| **Frontend & 3D Graphics** | React, Next.js, Three.js, Tailwind CSS, Inertia.js, HTML5/CSS3 |
-| **Databases & Persistence** | PostgreSQL, MySQL, Relational Schema Design |
-| **Tools & Creative** | Docker, Git & GitHub, Linux, Blender 3D, Postman, VS Code |
+### 🧭 [Algorithmic Route Divination Engine](https://github.com/ThomasShikalepo)
+> **Elements:** `Python` • `Google OR-Tools` • `pandas` • `Mapbox API`  
+> Hackathon logistics optimizer resolving dynamic vehicle telemetry and distance matrices to minimize fuel waste and mileage.
 
----
+### 🎓 [Work Integrated Learning Management Platform](https://github.com/ThomasShikalepo/Work_Integrated_System)
+> **Elements:** `Laravel` • `Inertia.js (React)` • `PostgreSQL` • `Tailwind CSS`  
+> An institutional platform streamlining student internship placements, academic mentor evaluations, and legal compliance tracking.
 
-## 🌟 Selected Engineering Works
-
-| Project | Highlights | Core Tech |
-|---|---|---|
-| 🌐 **[3D Interactive Portfolio](https://thomasdeon.vercel.app/)** | Award-worthy creative portfolio featuring interactive 3D elements, ambient audio, and fluid animations. | `Next.js` `Three.js` `Tailwind CSS` `Blender` |
-| 🏥 **[Distributed Patient Microservices](https://github.com/ThomasShikalepo)** | Event-driven healthcare microservices backend covering patient management, billing, and analytics. | `Java` `Spring Boot` `Kafka` `Docker` `gRPC` |
-| 🚚 **[AI Route Optimization Engine](https://github.com/ThomasShikalepo)** | Logistics optimization solving delivery matrices to reduce travel mileage, idle time, and fuel. | `Python` `OR-Tools` `pandas` `Mapbox` |
-| 🎓 **[Work Integrated Learning System (WILMS)](https://github.com/ThomasShikalepo/Work_Integrated_System)** | Enterprise platform managing institutional student internships, placements, and supervisor evaluations. | `Laravel` `Inertia React` `PostgreSQL` |
-| 📊 **[Okaluli Admin & User Dashboard](https://github.com/ThomasShikalepo/okaluli_online_version)** | Platform activity monitor with live data visibility, responsive analytics, and administrative tools. | `React` `Tailwind CSS` `REST API` |
+### 📊 [Okaluli Intelligence & Scrying Mirror](https://github.com/ThomasShikalepo/okaluli_online_version)
+> **Elements:** `React` • `Tailwind CSS` • `RESTful API Architecture`  
+> Real-time platform administration dashboard offering user telemetry, chat archive exploration, and historical metric visualization.
 
 ---
 
-## 📊 Live GitHub Telemetry
+## 🔮 Scrying The Vaults • GitHub Telemetry
 
 <div align="center">
-  <!-- Accurate stats with all 446+ commits, private commits, and stars -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasShikalepo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FEFE5B&icon_color=FEFE5B" alt="Thomas's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasShikalepo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FEFE5B" alt="Top Languages" height="175" />
+  <!-- Dynamic GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ThomasShikalepo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FEFE5B&icon_color=FEFE5B&text_color=E2E8F0" alt="Thomas's GitHub Stats" height="175" />
+  <!-- Dynamic Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasShikalepo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FEFE5B&text_color=E2E8F0" alt="Top Languages" height="175" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Live GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasShikalepo&theme=tokyonight&hide_border=true&background=0D1117&ring=FEFE5B&fire=FEFE5B&currStreakLabel=FEFE5B" alt="GitHub Streak" />
+  <!-- Live Streak Counter -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasShikalepo&theme=tokyonight&hide_border=true&background=0D1117&ring=FEFE5B&fire=FEFE5B&currStreakLabel=FEFE5B&sideNums=FEFE5B" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 Daily Dev Inspiration
+### 🧙‍♂️ Daily Arcane Wisdom
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 
 <br/><br/>
 
-<!-- Animated Rainbow Dividing Line Footer -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="28" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24" />
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=ThomasShikalepo&icon=5&color=1)](https://visitcount.itsvg.in)
+[![Grimoire Observers](https://visitcount.itsvg.in/api?id=ThomasShikalepo&icon=5&color=1)](https://visitcount.itsvg.in)
 
 </div>
